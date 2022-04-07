@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 _site/
 .sass-cache/
 .jekyll-metadata
 .bundle
+=======
+_site/
+.sass-cache/
+.jekyll-metadata
+.bundle
+node_modules/
+>>>>>>> d97d85a08206aaaa4f6718f9738ea897346f6540
